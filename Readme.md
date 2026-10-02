@@ -1,8 +1,3 @@
-Haan bhai. README **simple but professional** rakhenge. Assignment ke required points cover ho jayenge: setup, API endpoints, database design, payment/webhook flow, assumptions aur future improvements. 
-
-Apne `README.md` me **ye pura paste kar de**:
-
-````md
 # EVE Healthcare Backend
 
 Backend engineering assignment for EVE Healthcare.

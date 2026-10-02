@@ -56,7 +56,7 @@ Backend/
 │   │   ├── bookingRoutes.js
 │   │   └── paymentRoutes.js
 │   │
-│   ├── middleware/
+│   ├── middlewares/
 │   │   └── authMiddleware.js
 │   │
 │   └── db/
